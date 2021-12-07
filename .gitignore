@@ -1,2 +1,3 @@
 borg/
-test.txt
+.DS_STORE
+__pycache__/*
